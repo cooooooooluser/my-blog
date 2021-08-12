@@ -15,3 +15,35 @@ input
 {
     background: grey
 }
+.Arizona{
+    border:1px solid black;
+    float: none;
+}
+.Arizona img{
+    width:100%;
+}
+.Arizona p, .Arizona h5{
+    margin-left:15px;
+}
+.movie_header{
+    font-size:20px;
+    margin-bottom:15px;
+    width:100%;
+    padding:6px 22px;
+    display:inline-block;
+
+    }
+.movie_header i{
+    float: right;
+}
+.tech_lid{
+margin-top:10px;
+
+}
+
+.tech_lid h4 {
+    padding:8px;
+    border-bottom:2px solid white;
+    font-style: italic;
+    
+}
