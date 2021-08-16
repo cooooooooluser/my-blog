@@ -47,3 +47,13 @@ margin-top:10px;
     font-style: italic;
     
 }
+
+.p_modal{
+    margin-top:7px;
+    text-align: center;
+}
+
+.img_modal{
+    display:inline-block;
+   
+}
